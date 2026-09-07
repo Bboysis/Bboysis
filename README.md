@@ -126,6 +126,71 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 </p>
 
 ---
+## 💡 Fun Facts & Personality
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/☕-Coffee_Lover-64FFDA?style=flat-square" /><br>
+      <b>Tried 20+ Ethiopian coffee varieties</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⌨️-Typing_Speed-64FFDA?style=flat-square" /><br>
+      <b>80+ WPM</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚-Reader-64FFDA?style=flat-square" /><br>
+      <b>1 tech book per month</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌙-Night_Owl-64FFDA?style=flat-square" /><br>
+      <b>Most productive 10PM – 2AM</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💻-Clean_Code-64FFDA?style=flat-square" /><br>
+      <b>Code like someone cares</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯-Problem_Solver-64FFDA?style=flat-square" /><br>
+      <b>Built 10+ real-world systems</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌍-Global_Collaborator-64FFDA?style=flat-square" /><br>
+      <b>Worked with clients from 5+ countries</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🧠-Always_Learning-64FFDA?style=flat-square" /><br>
+      <b>Currently deep in AI & System Design</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🚀-Builder-64FFDA?style=flat-square" /><br>
+      <b>Ideas → Real applications</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 What I'm Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📖-System_Design-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚛️-Advanced_React-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-64FFDA?style=flat-square" />
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+> *"Clean code always looks like it was written by someone who cares."*
+
+---
 
 ## 🌐 Connect With Me
 
