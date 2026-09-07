@@ -119,23 +119,6 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
-
-## 🧠 What I'm Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📖-System_Design-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚛️-Advanced_React-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-64FFDA?style=flat-square" />
-</p>
-
----
-
-## 💬 Quote I Live By
-
-> *"Clean code always looks like it was written by someone who cares."*
-
----
 ## 🎯 My Journey — Turning Ideas Into Reality
 
 <p align="center">
@@ -178,15 +161,10 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <img src="https://img.shields.io/badge/🌟-Goal-64FFDA?style=flat-square" /><br>
       <b>Full-Stack Developer</b><br>
       <sub>Building systems that solve real problems</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🚀-Next-64FFDA?style=flat-square" /><br>
-      <b>Always Learning</b><br>
-      <sub>AI & Advanced System Design</sub>
     </td>
   </tr>
 </table>
@@ -308,7 +286,19 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
-## 🌐 Connect With Me
+## 💌 Let's Connect — I'd Love to Hear From You!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518bc897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+</p>
+
+<p align="center">
+  <i>Whether you have a project idea, a collaboration proposal, or just want to say hi — I'm always open to connecting with like-minded people.</i>
+</p>
+
+<p align="center">
+  <b>📩 Reach out to me anytime — I usually respond within 24 hours!</b>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sisay-abebayew" target="_blank">
@@ -333,56 +323,12 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Let's Build Something Amazing Together
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=bboysis&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,100:0a192f&height=120&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <i>⚡ "Building complete, practical, and user-friendly digital solutions that turn ideas into real, functional applications." ⚡</i>
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sisay-abebayew" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/bboysis" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://instagram.com/bboysis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/bboysis" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:sisayabebayew@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://sisaydev-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bboysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&layout=compact" />
+  <img src="https://img.shields.io/badge/💡-Got%20an%20idea%3F-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝-Let's%20collaborate-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Let's%20build-64FFDA?style=for-the-badge" />
 </p>
 
 ---
