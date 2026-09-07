@@ -1,17 +1,18 @@
+<!-- ============ TOP WAVE — WATER BLUE ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Sisay%20Abebayew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,30:00B4D8,60:48CAE4,90:90E0EF,100:CAF0F8&height=280&section=header&text=Sisay%20Abebayew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <!-- ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Digital+Solutions+Architect;Building+Systems+That+Solve+Problems;10%2B+Projects+Completed;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Digital+Solutions+Architect;Building+Systems+That+Solve+Problems;10%2B+Projects+Completed;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bboysis&label=👁️%20Profile%20Views&color=64FFDA&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/bboysis?style=for-the-badge&color=64FFDA&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/bboysis?style=for-the-badge&color=64FFDA&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=bboysis&label=👁️%20Profile%20Views&color=00B4D8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/bboysis?style=for-the-badge&color=00B4D8&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/bboysis?style=for-the-badge&color=00B4D8&logo=github" alt="Stars" />
 </p>
 
 ---
@@ -74,12 +75,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=bboysis&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=bboysis&theme=algolia&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -128,7 +129,7 @@
 
 <p align="center">
   <a href="https://sisaydev-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 View%20All%20Projects-64FFDA?style=for-the-badge&logo=vercel&logoColor=black" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/🔗 View%20All%20Projects-00B4D8?style=for-the-badge&logo=vercel&logoColor=black" alt="View All Projects" />
   </a>
 </p>
 
@@ -138,47 +139,47 @@
 ## 🎯 My Journey — Turning Ideas Into Reality
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bboysis&theme=react-dark&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bboysis&theme=react-dark&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/📅-2024-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/📅-2024-00B4D8?style=flat-square" /><br>
       <b>Started Computer Science</b><br>
       <sub>University journey began</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/💻-2024-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/💻-2024-00B4D8?style=flat-square" /><br>
       <b>First Web Project</b><br>
       <sub>Built first management system</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🚀-2025-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🚀-2025-00B4D8?style=flat-square" /><br>
       <b>5+ Projects Completed</b><br>
       <sub>Management systems & websites</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🌐-2025-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🌐-2025-00B4D8?style=flat-square" /><br>
       <b>Portfolio Live</b><br>
       <sub>Personal website launched</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📱-2026-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/📱-2026-00B4D8?style=flat-square" /><br>
       <b>PWA Portfolio</b><br>
       <sub>Installable app experience</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎯-2026-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🎯-2026-00B4D8?style=flat-square" /><br>
       <b>10+ Projects</b><br>
       <sub>Built real-world solutions</sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <img src="https://img.shields.io/badge/🌟-Goal-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🌟-Goal-00B4D8?style=flat-square" /><br>
       <b>Full-Stack Developer</b><br>
       <sub>Building systems that solve real problems</sub>
     </td>
@@ -191,10 +192,10 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅-10%2B_Projects-64FFDA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐-6_Featured_Projects-64FFDA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛠️-15%2B_Technologies-64FFDA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍-5%2B_Countries_Clients-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅-10%2B_Projects-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐-6_Featured_Projects-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️-15%2B_Technologies-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍-5%2B_Countries_Clients-00B4D8?style=for-the-badge" />
 </p>
 
 ---
@@ -203,10 +204,10 @@
 ## 📚 What I'm Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📖-System_Design-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚛️-Advanced_React-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/📖-System_Design-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚛️-Advanced_React-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-00B4D8?style=flat-square" />
 </p>
 
 ---
@@ -217,21 +218,21 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/💻-Web_Development-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/💻-Web_Development-00B4D8?style=flat-square" /><br>
       <sub>Building modern, responsive websites</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🏗️-Management_Systems-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🏗️-Management_Systems-00B4D8?style=flat-square" /><br>
       <sub>Complete business solutions</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/⚡-Full_Stack-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/⚡-Full_Stack-00B4D8?style=flat-square" /><br>
       <sub>Frontend + Backend + Database</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎯-Digital_Solutions-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🎯-Digital_Solutions-00B4D8?style=flat-square" /><br>
       <sub>Practical problem-solving</sub>
     </td>
   </tr>
@@ -245,43 +246,43 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/☕-Coffee_Lover-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/☕-Coffee_Lover-00B4D8?style=flat-square" /><br>
       <b>Tried 20+ Ethiopian coffee varieties</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/⌨️-Typing_Speed-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/⌨️-Typing_Speed-00B4D8?style=flat-square" /><br>
       <b>80+ WPM</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📚-Reader-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/📚-Reader-00B4D8?style=flat-square" /><br>
       <b>1 tech book per month</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🌙-Night_Owl-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🌙-Night_Owl-00B4D8?style=flat-square" /><br>
       <b>Most productive 10PM – 2AM</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/💻-Clean_Code-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/💻-Clean_Code-00B4D8?style=flat-square" /><br>
       <b>Code like someone cares</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎯-Problem_Solver-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🎯-Problem_Solver-00B4D8?style=flat-square" /><br>
       <b>Built 10+ real-world systems</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🌍-Global_Collaborator-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🌍-Global_Collaborator-00B4D8?style=flat-square" /><br>
       <b>Worked with clients from 5+ countries</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🧠-Always_Learning-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🧠-Always_Learning-00B4D8?style=flat-square" /><br>
       <b>Currently deep in AI & System Design</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🚀-Builder-64FFDA?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/🚀-Builder-00B4D8?style=flat-square" /><br>
       <b>Ideas → Real applications</b>
     </td>
   </tr>
@@ -293,10 +294,10 @@
 ## 🧩 What Makes Me Different
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✅-Complete_Systems-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/✅-User_Friendly_Design-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/✅-Practical_Solutions-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/✅-Clean_Code-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-Complete_Systems-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-User_Friendly_Design-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-Practical_Solutions-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-Clean_Code-00B4D8?style=flat-square" />
 </p>
 
 ---
@@ -341,7 +342,7 @@
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
         </a>
         <a href="https://sisaydev-portfolio.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+          <img src="https://img.shields.io/badge/🌐%20Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
         </a>
       </p>
     </td>
@@ -357,16 +358,16 @@
 ## 🌟 Let's Build Something Amazing Together
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡-Got%20an%20idea%3F-64FFDA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝-Let's%20collaborate-64FFDA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀-Let's%20build-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡-Got%20an%20idea%3F-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝-Let's%20collaborate-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Let's%20build-00B4D8?style=for-the-badge" />
 </p>
 
 ---
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,30:90E0EF,60:48CAE4,90:00B4D8,100:006994&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
