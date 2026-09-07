@@ -16,7 +16,7 @@
 <!-- BADGES                                                        -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bboysis&label=👁️%20Profile%20Views&color=00B4D8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Bboysis&label=👁️%20Profile%20Views&color=00B4D8&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/bboysis?style=for-the-badge&color=00B4D8&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/bboysis?style=for-the-badge&color=00B4D8&logo=github" alt="Stars" />
 </p>
@@ -87,7 +87,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bboysis&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" />
 </p>
 
