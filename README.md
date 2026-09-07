@@ -1,14 +1,20 @@
-<!-- ============ TOP WAVE — WATER BLUE ============ -->
+<!-- ============================================================ -->
+<!-- TOP WAVE — WATER BLUE                                          -->
+<!-- ============================================================ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,30:00B4D8,60:48CAE4,90:90E0EF,100:CAF0F8&height=280&section=header&text=Sisay%20Abebayew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
-<!-- ANIMATED TYPING EFFECT -->
+<!-- ============================================================ -->
+<!-- ANIMATED TYPING EFFECT                                         -->
+<!-- ============================================================ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Digital+Solutions+Architect;Building+Systems+That+Solve+Problems;10%2B+Projects+Completed;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
-<!-- BADGES -->
+<!-- ============================================================ -->
+<!-- BADGES                                                        -->
+<!-- ============================================================ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bboysis&label=👁️%20Profile%20Views&color=00B4D8&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/bboysis?style=for-the-badge&color=00B4D8&logo=github" alt="Followers" />
@@ -17,7 +23,9 @@
 
 ---
 
-<!-- ============ ABOUT ME ============ -->
+<!-- ============================================================ -->
+<!-- ABOUT ME                                                       -->
+<!-- ============================================================ -->
 ## 🌟 About Me
 
 <table>
@@ -46,7 +54,9 @@
 
 ---
 
-<!-- ============ TECH STACK ============ -->
+<!-- ============================================================ -->
+<!-- TECH STACK                                                    -->
+<!-- ============================================================ -->
 ## 🛠️ Tech Stack
 
 <h3 align="center">💻 Frontend</h3>
@@ -71,7 +81,9 @@
 
 ---
 
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============================================================ -->
+<!-- GITHUB STATS                                                  -->
+<!-- ============================================================ -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -80,12 +92,14 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=bboysis&theme=algolia&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?username=bboysis&theme=algolia&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<!-- ============ FEATURED PROJECTS ============ -->
+<!-- ============================================================ -->
+<!-- FEATURED PROJECTS                                             -->
+<!-- ============================================================ -->
 ## 🚀 Featured Projects
 
 <table>
@@ -135,7 +149,9 @@
 
 ---
 
-<!-- ============ JOURNEY ============ -->
+<!-- ============================================================ -->
+<!-- JOURNEY                                                       -->
+<!-- ============================================================ -->
 ## 🎯 My Journey — Turning Ideas Into Reality
 
 <p align="center">
@@ -188,7 +204,9 @@
 
 ---
 
-<!-- ============ ACHIEVEMENTS ============ -->
+<!-- ============================================================ -->
+<!-- ACHIEVEMENTS                                                  -->
+<!-- ============================================================ -->
 ## 🏆 Achievements
 
 <p align="center">
@@ -200,7 +218,9 @@
 
 ---
 
-<!-- ============ LEARNING ============ -->
+<!-- ============================================================ -->
+<!-- LEARNING                                                      -->
+<!-- ============================================================ -->
 ## 📚 What I'm Currently Learning
 
 <p align="center">
@@ -212,7 +232,9 @@
 
 ---
 
-<!-- ============ FOCUS AREAS ============ -->
+<!-- ============================================================ -->
+<!-- FOCUS AREAS                                                   -->
+<!-- ============================================================ -->
 ## 🎯 My Focus Areas
 
 <table align="center">
@@ -240,7 +262,9 @@
 
 ---
 
-<!-- ============ FUN FACTS ============ -->
+<!-- ============================================================ -->
+<!-- FUN FACTS                                                     -->
+<!-- ============================================================ -->
 ## 💡 Fun Facts & Personality
 
 <table align="center">
@@ -290,7 +314,9 @@
 
 ---
 
-<!-- ============ WHAT MAKES ME DIFFERENT ============ -->
+<!-- ============================================================ -->
+<!-- WHAT MAKES ME DIFFERENT                                      -->
+<!-- ============================================================ -->
 ## 🧩 What Makes Me Different
 
 <p align="center">
@@ -302,14 +328,18 @@
 
 ---
 
-<!-- ============ QUOTE ============ -->
+<!-- ============================================================ -->
+<!-- QUOTE                                                         -->
+<!-- ============================================================ -->
 ## 💬 Quote I Live By
 
 > *"Clean code always looks like it was written by someone who cares."*
 
 ---
 
-<!-- ============ CONNECT SECTION ============ -->
+<!-- ============================================================ -->
+<!-- CONNECT SECTION                                               -->
+<!-- ============================================================ -->
 ## 💌 Let's Connect — I'd Love to Hear From You!
 
 <table>
@@ -354,7 +384,9 @@
 
 ---
 
-<!-- ============ CTA ============ -->
+<!-- ============================================================ -->
+<!-- CALL TO ACTION                                               -->
+<!-- ============================================================ -->
 ## 🌟 Let's Build Something Amazing Together
 
 <p align="center">
@@ -365,7 +397,9 @@
 
 ---
 
-<!-- ============ FOOTER ============ -->
+<!-- ============================================================ -->
+<!-- FOOTER WAVE                                                   -->
+<!-- ============================================================ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,30:90E0EF,60:48CAE4,90:00B4D8,100:006994&height=120&section=footer" width="100%"/>
 </p>
