@@ -88,6 +88,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bboysis&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&rank_icon=github&theme=algolia" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" />
 </p>
 
