@@ -1,38 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=200&section=header&text=Sisay%20Abebayew&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Sisay%20Abebayew&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Sisay Abebayew</h1>
-
+<!-- ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Digital+Solutions+Architect;Building+Systems+That+Solve+Problems;10%2B+Projects+Completed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Digital+Solutions+Architect;Building+Systems+That+Solve+Problems;10%2B+Projects+Completed;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
+<!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bboysis&label=Profile%20Views&color=64FFDA&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bboysis?style=flat-square&color=64FFDA" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/bboysis?style=flat-square&color=64FFDA" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=bboysis&label=👁️%20Profile%20Views&color=64FFDA&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/bboysis?style=for-the-badge&color=64FFDA&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/bboysis?style=for-the-badge&color=64FFDA&logo=github" alt="Stars" />
 </p>
 
 ---
 
+<!-- ============ ABOUT ME ============ -->
 ## 🌟 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="200" />
-
-I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪🇹. I build complete, practical, and user-friendly digital solutions that turn ideas into real, functional applications.
-
-- 🔭 **Currently working on:** Management systems & web applications
-- 🌱 **Currently learning:** Advanced JavaScript frameworks, System Design
-- 👯 **Looking to collaborate on:** Open-source projects & innovative ideas
-- 💬 **Ask me about:** PHP, JavaScript, MySQL, React, Next.js
-- ⚡ **Fun fact:** I've built 10+ management systems from scratch
-- 📍 **Based in:** Addis Ababa, Ethiopia
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>👋 Hi, I'm Sisay Abebayew</h3>
+      <p>
+        I'm a passionate <b>Full-Stack Developer</b> from <b>Addis Ababa, Ethiopia</b> 🇪🇹.<br><br>
+        I build complete, practical, and user-friendly digital solutions that turn ideas into real, functional applications. With <b>8+ years</b> of experience in web development, I specialize in creating management systems, business websites, and modern web applications that actually solve problems.
+      </p>
+      <br>
+      <p>
+        🔭 <b>Currently working on:</b> Management systems & web applications<br>
+        🌱 <b>Currently learning:</b> Advanced JavaScript, System Design, AI<br>
+        👯 <b>Looking to collaborate on:</b> Open-source projects & innovative ideas<br>
+        💬 <b>Ask me about:</b> PHP, JavaScript, MySQL, React, Next.js<br>
+        ⚡ <b>Fun fact:</b> I've built 10+ management systems from scratch<br>
+        📍 <b>Based in:</b> Addis Ababa, Ethiopia
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
 
 <h3 align="center">💻 Frontend</h3>
@@ -57,10 +70,11 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ GITHUB STATS ============ -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
 </p>
 
@@ -70,40 +84,41 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ FEATURED PROJECTS ============ -->
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🩺 Pharmacy Management System</h3>
       <p>Complete system for managing medicines, inventory, sales, purchases, and reports.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏫 SIS Missford School Management</h3>
       <p>Web-based school administration platform for students, academics, and operations.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏨 Hotel Management System</h3>
       <p>Online hotel booking and room management platform.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🛒 E-Commerce Website</h3>
       <p>Modern online shopping platform with product browsing and cart.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>💪 Personal Gym Trainer Website</h3>
       <p>Fitness services, programs, and transformation showcase.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📱 QR Menu System</h3>
       <p>Digital menu solution via QR code for restaurants.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></p>
@@ -119,6 +134,7 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ JOURNEY ============ -->
 ## 🎯 My Journey — Turning Ideas Into Reality
 
 <p align="center">
@@ -171,6 +187,7 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ ACHIEVEMENTS ============ -->
 ## 🏆 Achievements
 
 <p align="center">
@@ -182,6 +199,7 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ LEARNING ============ -->
 ## 📚 What I'm Currently Learning
 
 <p align="center">
@@ -193,6 +211,7 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ FOCUS AREAS ============ -->
 ## 🎯 My Focus Areas
 
 <table align="center">
@@ -220,6 +239,7 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ FUN FACTS ============ -->
 ## 💡 Fun Facts & Personality
 
 <table align="center">
@@ -269,6 +289,7 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ WHAT MAKES ME DIFFERENT ============ -->
 ## 🧩 What Makes Me Different
 
 <p align="center">
@@ -280,49 +301,59 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ QUOTE ============ -->
 ## 💬 Quote I Live By
 
 > *"Clean code always looks like it was written by someone who cares."*
 
 ---
 
+<!-- ============ CONNECT SECTION ============ -->
 ## 💌 Let's Connect — I'd Love to Hear From You!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518bc897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
-</p>
-
-<p align="center">
-  <i>Whether you have a project idea, a collaboration proposal, or just want to say hi — I'm always open to connecting with like-minded people.</i>
-</p>
-
-<p align="center">
-  <b>📩 Reach out to me anytime — I usually respond within 24 hours!</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sisay-abebayew" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/bboysis" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://instagram.com/bboysis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/bboysis" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:sisayabebayew@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://sisaydev-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518bc897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
+      </p>
+      <p align="center">
+        <i>Whether you have a project idea, a collaboration proposal, or just want to say hi — I'm always open to connecting with like-minded people.</i>
+      </p>
+      <p align="center">
+        <b>📩 Reach out to me anytime — I usually respond within 24 hours!</b>
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://linkedin.com/in/sisay-abebayew" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://t.me/bboysis" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        </a>
+        <a href="https://instagram.com/bboysis" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+        <a href="https://x.com/bboysis" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        </a>
+        <a href="mailto:sisayabebayew@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+        <a href="https://sisaydev-portfolio.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐%20Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWduaWFhN3B5a2dsczg1NGFuM2R4dTliaGQxM3V2aXQ4Y3k4NmpkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<!-- ============ CTA ============ -->
 ## 🌟 Let's Build Something Amazing Together
 
 <p align="center">
@@ -333,10 +364,15 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
+<!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,100:0a192f&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
   <i>⚡ "Building complete, practical, and user-friendly digital solutions that turn ideas into real, functional applications." ⚡</i>
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting! Have a great day! ⭐</b>
 </p>
