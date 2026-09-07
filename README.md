@@ -119,13 +119,129 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
-## 🎯 My Journey
+
+## 🧠 What I'm Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📖-System_Design-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚛️-Advanced_React-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-64FFDA?style=flat-square" />
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+> *"Clean code always looks like it was written by someone who cares."*
+
+---
+## 🎯 My Journey — Turning Ideas Into Reality
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bboysis&theme=react-dark&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📅-2024-64FFDA?style=flat-square" /><br>
+      <b>Started Computer Science</b><br>
+      <sub>University journey began</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💻-2024-64FFDA?style=flat-square" /><br>
+      <b>First Web Project</b><br>
+      <sub>Built first management system</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🚀-2025-64FFDA?style=flat-square" /><br>
+      <b>5+ Projects Completed</b><br>
+      <sub>Management systems & websites</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌐-2025-64FFDA?style=flat-square" /><br>
+      <b>Portfolio Live</b><br>
+      <sub>Personal website launched</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📱-2026-64FFDA?style=flat-square" /><br>
+      <b>PWA Portfolio</b><br>
+      <sub>Installable app experience</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯-2026-64FFDA?style=flat-square" /><br>
+      <b>10+ Projects</b><br>
+      <sub>Built real-world solutions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/🌟-Goal-64FFDA?style=flat-square" /><br>
+      <b>Full-Stack Developer</b><br>
+      <sub>Building systems that solve real problems</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🚀-Next-64FFDA?style=flat-square" /><br>
+      <b>Always Learning</b><br>
+      <sub>AI & Advanced System Design</sub>
+    </td>
+  </tr>
+</table>
+
 ---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅-10%2B_Projects-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐-6_Featured_Projects-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️-15%2B_Technologies-64FFDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍-5%2B_Countries_Clients-64FFDA?style=for-the-badge" />
+</p>
+
+---
+
+## 📚 What I'm Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📖-System_Design-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚛️-Advanced_React-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-64FFDA?style=flat-square" />
+</p>
+
+---
+
+## 🎯 My Focus Areas
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💻-Web_Development-64FFDA?style=flat-square" /><br>
+      <sub>Building modern, responsive websites</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏗️-Management_Systems-64FFDA?style=flat-square" /><br>
+      <sub>Complete business solutions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⚡-Full_Stack-64FFDA?style=flat-square" /><br>
+      <sub>Frontend + Backend + Database</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯-Digital_Solutions-64FFDA?style=flat-square" /><br>
+      <sub>Practical problem-solving</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💡 Fun Facts & Personality
 
 <table align="center">
@@ -175,13 +291,13 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 
 ---
 
-## 🧠 What I'm Currently Learning
+## 🧩 What Makes Me Different
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📖-System_Design-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/🤖-AI_&_Machine_Learning-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚛️-Advanced_React-64FFDA?style=flat-square" />
-  <img src="https://img.shields.io/badge/☁️-Cloud_Architecture-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-Complete_Systems-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-User_Friendly_Design-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-Practical_Solutions-64FFDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅-Clean_Code-64FFDA?style=flat-square" />
 </p>
 
 ---
@@ -191,6 +307,52 @@ I'm a passionate **Full-Stack Developer** from **Addis Ababa, Ethiopia** 🇪�
 > *"Clean code always looks like it was written by someone who cares."*
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sisay-abebayew" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/bboysis" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/bboysis" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/bboysis" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:sisayabebayew@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://sisaydev-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bboysis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboysis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=bboysis&theme=tokyonight&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,100:0a192f&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>⚡ "Building complete, practical, and user-friendly digital solutions that turn ideas into real, functional applications." ⚡</i>
+</p>
 
 ## 🌐 Connect With Me
 
