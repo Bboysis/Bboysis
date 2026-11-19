@@ -97,6 +97,12 @@
   />
 </p>
 
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bboysis/Bboysis/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
 ---
 
 <!-- ============================================================ -->
