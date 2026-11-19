@@ -69,6 +69,38 @@
   <img src="https://raw.githubusercontent.com/Bboysis/Bboysis/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />  
 </p>  
 ---
+<!-- DEVELOPER METRICS -->
+
+## 📊 Developer Metrics Dashboard
+
+<div align="center">
+
+<img
+  src="./github-metrics.svg"
+  alt="Sisay GitHub Developer Metrics"
+  width="100%"
+/>
+
+</div>
+<!-- 3D CONTRIBUTION CALENDAR -->
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  alt="3D GitHub Contribution Calendar"
+  width="100%"
+/>
+
+</div>
+<img
+  src="./profile-3d-contrib/profile-green-animate.svg"
+  alt="Animated 3D Contribution Calendar"
+  width="100%"
+/>
+
 
 <!-- ============================================================ -->  <!-- FEATURED PROJECTS                                             -->  <!-- ============================================================ -->  🚀 Featured Projects
 
