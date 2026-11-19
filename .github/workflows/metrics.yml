@@ -1,1 +1,38 @@
 
+name: Update Developer Metrics
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    name: Generate Developer Dashboard
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: Bboysis
+          filename: github-metrics.svg
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Africa/Addis_Ababa
+          config_display: large
+          config_theme: github-dark
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+
