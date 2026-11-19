@@ -1,5 +1,5 @@
 
-name: Generate Contribution Snake
+name: Generate Cyber Blue Snake
 
 on:
   schedule:
@@ -14,12 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Cyber Blue Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Bboysis
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#00E5FF&color_dots=#0D1117,#0B2545,#0B4F8A,#087CA7,#00D4FF
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
