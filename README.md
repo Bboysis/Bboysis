@@ -91,7 +91,10 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?username=bboysis&theme=algolia&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Bboysis&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
